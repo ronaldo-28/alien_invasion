@@ -4,9 +4,9 @@
 
 ![pic_0](https://github.com/ronaldo-28/alien_invasion/blob/b3180e237bad6c6f2765e1964ec14c1d9db45f1a/images/1.png)
 
-![pic_1](https://raw.githubusercontent.com/TheForgotensoul/Alien-Invasion/master/img/2.png)
+![pic_1]([https://raw.githubusercontent.com/TheForgotensoul/Alien-Invasion/master/img/2.png](https://github.com/ronaldo-28/alien_invasion/blob/a4d30dd5f7bc3cdd79ef55cdcc7495af73491d69/images/2.png))
 
-![pic_2](https://raw.githubusercontent.com/TheForgotensoul/Alien-Invasion/master/img/3.png)
+![pic_2]([https://raw.githubusercontent.com/TheForgotensoul/Alien-Invasion/master/img/3.png](https://github.com/ronaldo-28/alien_invasion/blob/a4d30dd5f7bc3cdd79ef55cdcc7495af73491d69/images/3.png))
 
 ![pic_3](https://raw.githubusercontent.com/TheForgotensoul/Alien-Invasion/master/img/4.png)
 
