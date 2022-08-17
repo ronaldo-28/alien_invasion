@@ -5,7 +5,7 @@
 ![pic_0](https://github.com/ronaldo-28/alien_invasion/blob/b3180e237bad6c6f2765e1964ec14c1d9db45f1a/images/1.png)
 
 
-![pic_1](https://github.com/ronaldo-28/alien_invasion/blob/b3180e237bad6c6f2765e1964ec14c1d9db45f1a/images/2.png)
+![pic_1] (https://github.com/ronaldo-28/alien_invasion/blob/dfc4580c2e5230da652567999a8ad27b4b18c1ea/images/2.png)
 
 ![pic_2](https://github.com/ronaldo-28/alien_invasion/blob/a4d30dd5f7bc3cdd79ef55cdcc7495af73491d69/images/3.png))
 
