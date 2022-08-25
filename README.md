@@ -12,8 +12,6 @@
 ![pic_3](https://github.com/ronaldo-28/alien_invasion/blob/f7106c493e9f72ce647080978b74eb05f5f83c0f/images/5.png)
 
 ![pic_4](https://github.com/ronaldo-28/alien_invasion/blob/f7106c493e9f72ce647080978b74eb05f5f83c0f/images/3.png)
-
-![pic_5](https://github.com/ronaldo-28/alien_invasion/blob/f7106c493e9f72ce647080978b74eb05f5f83c0f/images/4.png)
 ## Install
 
 ```
