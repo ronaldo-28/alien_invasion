@@ -29,7 +29,9 @@ For Mac and Linux, run this command
 bash ```
       python3 alien_invasion.py```
 # To run the AI player
- ```bash python3 ai_player.py```
+ ```bash 
+ python3 ai_player.py
+```
 
 ## Author
 
