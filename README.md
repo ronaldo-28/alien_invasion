@@ -29,7 +29,7 @@ python3 alien_invasion.py
 ```
 # To run the AI player
  ```bash 
- python3 ai_player.py
+ python ai_player.py
 ```
 
 ## Author
