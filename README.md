@@ -27,14 +27,13 @@ Download pygame using the following commond in the terminal
 ```
 
 cd in to the folder where you have download the Repo. And run the below command.
-
-      python alien_invasion.py
-
+bash ```
+      python alien_invasion.py```
 For Mac and Linux run this command
-
-      python3 alien_invasion.py
-
-```
+bash ```
+      python3 alien_invasion.py```
+#To run the AI player
+bash```python3 ai_player.py```
 
 ## Author
 
