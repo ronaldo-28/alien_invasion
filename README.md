@@ -19,13 +19,11 @@ bash```pip install pygame```
 
 ## Usage
 
-```
-
-cd into the folder where you have downloaded the Repo. And run the below command.
-bash ```
+### cd into the folder where you have downloaded the Repo. And run the below command.
+```bash
       python alien_invasion.py
 ```
-For Mac and Linux, run this command
+### For Mac and Linux, run this command
 bash ```
       python3 alien_invasion.py```
 # To run the AI player
