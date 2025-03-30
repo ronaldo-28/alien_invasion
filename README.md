@@ -15,7 +15,9 @@
 ## Install
 
 # Download pygame using the following command in the terminal
-bash```pip install pygame```
+```bash
+pip install pygame
+```
 
 ## Usage
 
