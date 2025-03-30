@@ -14,7 +14,7 @@
 ![pic_4](https://github.com/ronaldo-28/alien_invasion/blob/f7106c493e9f72ce647080978b74eb05f5f83c0f/images/3.png)
 ## Install
 
-#Download pygame using the following commond in the terminal
+# Download pygame using the following commond in the terminal
 bash```pip install pygame```
 
 ## Usage
