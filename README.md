@@ -37,7 +37,7 @@ python3 alien_invasion.py
 ## Author
 
 👤 **ronaldo-28**
-
+ 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
